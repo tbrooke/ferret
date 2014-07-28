@@ -1,0 +1,17 @@
+{
+  "name":"ferret",
+  "description":"Ferret out legal citations.",
+  "version":"0.0.1",
+  "description":"Extract reporter citations from any text.",
+  "keywords": [
+    "law",
+    "citation",
+    "cite-check",
+    "reporter"
+  ],
+  "license":"AGPL",
+  "contributors": [
+    "Frank Bennett",
+    "Matthew Zorn"
+  ]
+}
